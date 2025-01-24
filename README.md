@@ -1,16 +1,3 @@
-██████╗  █████╗ ██████╗ ██╗  ██╗       
-██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝       
-██║  ██║███████║██████╔╝█████╔╝        
-██║  ██║██╔══██║██╔══██╗██╔═██╗        
-██████╔╝██║  ██║██║  ██║██║  ██╗       
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝       
-                                       
-██╗   ██╗ ██████╗ ██╗ ██████╗███████╗  
-██║   ██║██╔═══██╗██║██╔════╝██╔════╝  
-██║   ██║██║   ██║██║██║     █████╗    
-╚██╗ ██╔╝██║   ██║██║██║     ██╔══╝    
- ╚████╔╝ ╚██████╔╝██║╚██████╗███████╗  
-
 # Dark Voice Demo
 
 A Python GUI application demonstrating the Dark Voice TTS engine, a simple wrapper for the Kokoro-82M TTS model. This educational project helps developers understand how to implement text-to-speech functionality in Python applications.
