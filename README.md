@@ -1,3 +1,5 @@
+<img width="624" alt="Screenshot 2025-01-23 at 9 50 58 PM" src="https://github.com/user-attachments/assets/25313946-ee70-4d2e-9858-d4506861ad2e" />
+
 # Dark Voice Demo
 
 A Python GUI application demonstrating the Dark Voice TTS engine, a simple wrapper for the Kokoro-82M TTS model. This educational project helps developers understand how to implement text-to-speech functionality in Python applications.
