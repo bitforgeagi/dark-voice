@@ -1,8 +1,11 @@
-<img width="624" alt="Screenshot 2025-01-23 at 9 50 58 PM" src="https://github.com/user-attachments/assets/25313946-ee70-4d2e-9858-d4506861ad2e" />
+
+![u9855564576_create_a_cypher_graphic_for_DARK_VOICE_circuit_fade_f6c18a86-7094-48cf-bb18-11ab6279d2ef](https://github.com/user-attachments/assets/ef96d5ad-fe59-4881-b937-2ce420f134c8)
 
 # Dark Voice Demo
 
 A Python GUI application demonstrating the Dark Voice TTS engine. Learn how to build a simple wrapper for the [Kokoro-82M TTS model](https://huggingface.co/hexgrad/Kokoro-82M/tree/main). This educational project helps developers understand how to implement text-to-speech functionality in Python applications. 100% offline Text-to-Speech! (after model / voice downloads)
+
+<img width="624" alt="Screenshot 2025-01-23 at 9 50 58 PM" src="https://github.com/user-attachments/assets/25313946-ee70-4d2e-9858-d4506861ad2e" />
 
 ## Prerequisites
 
